@@ -5,9 +5,12 @@
 - **LifeCycle Methods**
 - Props
 - Hooks and data passing methods
-- Data Fetching *[data fetching is simulated by set delay (only)]* 
+- Data Fetching *[data fetching is simulated by set delay (only)]*
+- JSX Injection (methods and render)
 
-**I did not include functionality for protococals**
+**This code builds on the original Codecademy.com pet-social-media project in their React.js Course** 
+
+**App.js runs on localhost:8000 by default 'out of the box'**
 
 ==No public back-end support==
 
